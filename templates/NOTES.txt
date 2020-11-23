@@ -1,0 +1,6 @@
+Wait for all CA pods to come up
+This is necessary to run artifacts-flow to retreive necessary crypto material from CA's 
+
+Intermediate CA's are not supported
+
+                                         
